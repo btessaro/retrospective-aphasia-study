@@ -2,7 +2,7 @@
 #
 # Date:10/05/2022
 # Author: Bruna Tessaro
-# Filename: Associative errors and Pyramids and Palm Trees Test
+# Filename: Retrospective aphasia study
 # Description:this script contains data preparation and analysis for the paper
 # entitled "Associative errors and cognitive control in aphasia"
 #-----------------------------------------------------------------------#
