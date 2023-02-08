@@ -1,6 +1,6 @@
 # retrospective-aphasia-study
 
-Aphasia is a language disorder caused by brain damage. Some people with aphasia have difficulties with naming items. For example, when presented with a picture of a :cat2:, they might say "dog". Another common error is answering "school" to a picture of a desk, and this is called an **associative error**. Associative errors are errors that can be associated to the target, like *hospital* :hospital: and *stethoscope* :stethoscope:,  but do NOT share the same category like *lion* :lion: and *tiger* :tiger:.  
+This project was part of my PhD project. Aphasia is a language disorder caused by brain damage. Some people with aphasia have difficulties with naming items. For example, when presented with a picture of a :cat2:, they might say "dog". Another common error is answering "school" to a picture of a desk, and this is called an **associative error**. Associative errors are errors that can be associated to the target, like *hospital* :hospital: and *stethoscope* :stethoscope:,  but do NOT share the same category like *lion* :lion: and *tiger* :tiger:.  
 
 This research tested two contrasting accounts regarding the occurrence of associative errors in naming in aphasia.
 
